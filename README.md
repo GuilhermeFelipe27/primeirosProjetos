@@ -8,4 +8,7 @@ Calculadora simples de **IMC (Índice de Massa Corporal)** feita com **HTML, CSS
 3. Clique em **Calcular** para ver o resultado.
 
 ## 📂 Estrutura
+├── index.html # Página principal
+├── imc.css # Estilo
+└── imc.js # Lógica do cálculo
 
